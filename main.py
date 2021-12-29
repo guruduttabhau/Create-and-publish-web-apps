@@ -11,3 +11,4 @@ st.subheader("automation")
 st.write('''This is our first app
 ''')
 st.write(df)
+st.line_chart(df)
